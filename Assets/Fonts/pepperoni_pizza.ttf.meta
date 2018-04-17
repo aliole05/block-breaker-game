@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 2bb55fefe4cb8499e80a69dda41d2632
+timeCreated: 1502665541
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Pepperoni Pizza
+  fontNames:
+  - Pepperoni Pizza
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
